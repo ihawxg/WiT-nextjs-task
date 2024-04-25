@@ -2,8 +2,8 @@ import 'bootstrap/dist/css/bootstrap.css'
 import type { Metadata } from "next";
 import "./globals.scss";
 import './fontawesome.min.css'
-import Footer from './_sections/Footer/footer';
-import HeaderContainer from './_sections/HeaderContainer/header-container';
+import Footer from '@/sections/Footer/footer';
+import HeaderContainer from '@/sections/HeaderContainer/header-container';
 
 import type { Viewport } from 'next'
 

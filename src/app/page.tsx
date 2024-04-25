@@ -1,8 +1,8 @@
 "use client";
 
-import Content from "./_sections/Content/content";
-import Posts from "./_sections/Posts/posts";
-import Slider from "./_sections/Slider/slider";
+import Content from "@/sections/Content/content";
+import Posts from "@/sections/Posts/posts";
+import Slider from "@/sections/Slider/slider";
 
 export default function Home() {
   return (
